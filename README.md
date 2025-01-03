@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a rising sophomore pursuing Bachelors in Computer Science at the University of Waterloo.<br><br>🔭 Currently working on a Full Stack Car Dealership Application.<br>🤝 Very passionate about Software Development, Statistics, Data Science, and Machine Learning/Artificial Intelligence.<br>🌱 Learning Back-end development with Node.js, Express, Flask, & Django.<br>⚡ Some shows I love and recommend: Breaking Bad, Money Heist, Hajime no Ippo, Attack on Titan.
+I am a rising sophomore pursuing Bachelors in Computer Science at the University of Waterloo.<br><br>🔭 Currently working on a Full Stack Car Dealership Application.<br>🤝 Very passionate about Software Development, Statistics, Data Science, and Machine Learning/Artificial Intelligence.<br>🌱 Learning Application Development using Microservices and Serverless<br>⚡ Some shows I love and recommend: Breaking Bad, Money Heist, Hajime no Ippo, Attack on Titan.
 
 
 ## 🌐 Socials:
