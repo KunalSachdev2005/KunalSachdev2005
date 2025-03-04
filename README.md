@@ -1,9 +1,10 @@
 # 💫 About Me:
 I am a rising sophomore pursuing Bachelors in Computer Science at the University of Waterloo. I work across the full stack:<br>
 
+- **Programming Languages**: Python, JavaScript, R, C, C++, SQL
 - **Frontend**: React, HTML, CSS, JS
 - **Backend**: Node.js, Express.js, Flask, Django
-- **SQL & Databases**: Db2, MongoDB, MySQL, SQLite
+- **Databases**: Db2, MongoDB, MySQL, SQLite
 - **Data Science & Machine Learning**:
   - NumPy, Pandas
   - Visualization: Matplotlib, Seaborn, Folium, Plotly, Dash
