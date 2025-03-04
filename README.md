@@ -1,4 +1,4 @@
-# 💫 About Me:
+## About Me:
 I am a rising sophomore pursuing Bachelors in Computer Science at the University of Waterloo. I work across the full stack:<br>
 
 - **Programming Languages**: Python, JavaScript, R, C, C++, SQL
