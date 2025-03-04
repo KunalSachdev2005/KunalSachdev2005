@@ -1,4 +1,4 @@
-## About Me:
+### About Me:
 I am a rising sophomore pursuing Bachelors in Computer Science at the University of Waterloo. I work across the full stack:<br>
 
 - **Programming Languages**: Python, JavaScript, R, C, C++, SQL
@@ -15,7 +15,7 @@ I am a rising sophomore pursuing Bachelors in Computer Science at the University
 <!--<br>🔭 Currently working on a Full Stack Car Dealership Application.<br>🤝 Very passionate about Software Development, Statistics, Data Science, and Machine Learning/Artificial Intelligence.<br>🌱 Currently learning Application Development using Microservices and Serverless.<br>⚡ Some shows I love and recommend: Breaking Bad, Money Heist, Hajime no Ippo, Attack on Titan.-->
 
 
-## 🌐 Socials:
+### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kunalmsachdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalsachdev)
 
 <!--# 💻 Tech Stack:
