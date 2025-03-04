@@ -7,8 +7,8 @@ I am a rising sophomore pursuing Bachelors in Computer Science at the University
 - **Databases**: Db2, MongoDB, MySQL, SQLite
 - **Data Science & Machine Learning**:
   - NumPy, Pandas
-  - Visualization: Matplotlib, Seaborn, Folium, Plotly, Dash
-  - Machine Learning / Deep Learning: Scikit-learn, PyTorch, TensorFlow, Transformers, spaCy, NLTK
+  - **Visualization**: Matplotlib, Seaborn, Folium, Plotly, Dash
+  - **Machine Learning / Deep Learning**: Scikit-learn, PyTorch, TensorFlow, Transformers, spaCy, NLTK
 - **Deployment/DevOps**:
   - Docker, Kubernetes, GitHub Actions
 
