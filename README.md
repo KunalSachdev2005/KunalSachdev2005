@@ -11,7 +11,6 @@ I'm a rising sophomore pursuing a Bachelor's in Computer Science at the Universi
 🤝 **Passions:** Software Development, Statistics, Data Science, Machine Learning, and Artificial Intelligence
 ⚡ **Shows I love:** *Breaking Bad*, *Money Heist*, *Hajime no Ippo*, *Attack on Titan*, *Vinland Saga*
 🏏 **Sports I follow & play:**  
-![Cricket](https://img.shields.io/badge/Cricket-007A33?style=for-the-badge&logo=cricket&logoColor=white) 
 ![Basketball](https://img.shields.io/badge/Basketball-F15A24?style=for-the-badge&logo=nba&logoColor=white) 
 ![MMA](https://img.shields.io/badge/MMA-DA291C?style=for-the-badge&logo=ufc&logoColor=white) 
 ![Poker](https://img.shields.io/badge/Poker-1A1A1A?style=for-the-badge&logo=spades&logoColor=white)
