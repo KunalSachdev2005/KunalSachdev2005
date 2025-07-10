@@ -6,10 +6,10 @@ I'm a rising sophomore pursuing a Bachelor's in Computer Science at the Universi
 
 <br>
 
-🔭 **Currently:** Interning as a GenAI Engineer @ **Edelweiss Life Insurance**  
-🌱 **Building:** A serverless GenAI-powered **RAG application** using **AWS** and **Claude 3.5 Sonnet** to automate insights from enterprise **AWS Data Lake**, replacing 200+ static BI dashboards with dynamic, conversational insights  
-🤝 **Passions:** Software Development, Statistics, Data Science, Machine Learning, and Artificial Intelligence  
-⚡ **Shows I love:** *Breaking Bad*, *Money Heist*, *Hajime no Ippo*, *Attack on Titan*, *Vinland Saga*  
+🔭 **Currently:** Interning as a GenAI Engineer @ **Edelweiss Life Insurance**<br><br>
+🌱 **Building:** A serverless GenAI-powered **RAG application** using **AWS** and **Claude 3.5 Sonnet** to automate insights from enterprise **AWS Data Lake**, replacing 200+ static BI dashboards with dynamic, conversational insights<br><br>
+🤝 **Passions:** Software Development, Statistics, Data Science, Machine Learning, and Artificial Intelligence<br><br>
+⚡ **Shows I love:** *Breaking Bad*, *Money Heist*, *Hajime no Ippo*, *Attack on Titan*, *Vinland Saga*<br><br>
 🏏 **Sports I follow & play:** Cricket, Basketball, MMA, and Poker ♠️
 
 ---
