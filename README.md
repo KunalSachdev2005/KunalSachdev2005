@@ -54,7 +54,6 @@ I'm Kunal Sachdev - 3rd year undergrad pursuing Bachelor's in <b>Computer Scienc
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![LightGBM](https://img.shields.io/badge/LightGBM-%23009688.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-%2300599C.svg?style=for-the-badge&logo=leaflet&logoColor=white)
