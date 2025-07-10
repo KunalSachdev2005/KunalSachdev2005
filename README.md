@@ -2,7 +2,7 @@
 I am a rising sophomore pursuing Bachelors in Computer Science at the University of Waterloo.<br>
 
 <br>🔭 Interning as a GenAI Engineer @ Edelweiss Life Insurance.
-<br>🌱 Currently working on a serverless GenAI-powered RAG Application using AWS and Claude 3.5 Sonnet to automate insights from enterprise AWS Data &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lake; replacing 200+ static BI dashboards with dynamic insights.
+<br>🌱 Currently working on a serverless GenAI-powered RAG Application using AWS and Claude 3.5 Sonnet to automate insights from enterprise &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS Data Lake; replacing 200+ static BI dashboards with dynamic insights.
 <br>🤝 Very passionate about Software Development, Statistics, Data Science, Machine Learning, and Artificial Intelligence.
 <br>⚡ Some shows I love and recommend: Breaking Bad, Money Heist, Hajime no Ippo, Attack on Titan, Vinland Saga.
 
