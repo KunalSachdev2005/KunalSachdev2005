@@ -12,7 +12,7 @@ I'm a junior pursuing a Bachelor's in <b>Computer Science</b> with Minors in <b>
 🤝 **Passions:** Software Development, Statistics, Data Science, Machine Learning, Deep Learning, and Artificial Intelligence<br><br>
 ⚡ **Shows I love:** *Breaking Bad*, *Money Heist*, *Hajime no Ippo*, *Attack on Titan*, *Vinland Saga*<br><br>
 🏏 **Sports I follow & play:** Cricket, Basketball, MMA, and Poker ♠️<br><br>
-👇 **Check out some of my cool projects in the pinned section!! (and more in Repositories tab at the top)**
+👇 **Check out some of my cool projects in the pinned section below!! (and more in the Repositories tab at the top)**
 
 
 ---
