@@ -12,7 +12,7 @@ I am a rising sophomore pursuing Bachelors in Computer Science at the University
 - **Deployment/DevOps**:
   - Docker, Kubernetes, GitHub Actions
 
-<br>🔭 Currently working on a Full Stack Car Dealership Application.<br>🤝 Very passionate about Software Development, Statistics, Data Science, and Machine Learning/Artificial Intelligence.<br>🌱 Currently learning Application Development using Microservices and Serverless.<br>⚡ Some shows I love and recommend: Breaking Bad, Money Heist, Hajime no Ippo, Attack on Titan.
+<br>🔭 Currently working on a serverless GenAI-powered RAG Application to automate isnights from BI dashboards.<br>🤝 Very passionate about Software Development, Statistics, Data Science, Machine Learning, and Artificial Intelligence.<br>🌱 Currently learning Application Development using Microservices and Serverless.<br>⚡ Some shows I love and recommend: Breaking Bad, Money Heist, Hajime no Ippo, Attack on Titan.
 
 
 ## Socials:
