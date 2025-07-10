@@ -1,4 +1,4 @@
-## 👋 Hi there! Welcome to my GitHub
+## 👋 Hola
 
 <p align="justify">
 I'm a junior pursuing a Bachelor's in <b>Computer Science</b> with Minors in <b>Statistics</b> and <b>Economics</b> at the <b>University of Waterloo</b>.
