@@ -12,7 +12,7 @@ I am a rising sophomore pursuing Bachelors in Computer Science at the University
 - **Deployment/DevOps**:
   - Docker, Kubernetes, GitHub Actions
 
-<br>🔭 Currently working as a GenAI Engineer Intern at Edelweiss Life Insurance. Working on a serverless GenAI-powered RAG Application to automate isnights from BI dashboards.<br>🤝 Very passionate about Software Development, Statistics, Data Science, Machine Learning, and Artificial Intelligence.<br>🌱 Currently learning Application Development using Microservices and Serverless.<br>⚡ Some shows I love and recommend: Breaking Bad, Money Heist, Hajime no Ippo, Attack on Titan, Vinland Saga.
+<br>🔭 Currently working as a GenAI Engineer Intern at Edelweiss Life Insurance.<br>🌱 Working on a serverless GenAI-powered RAG Application to automate isnights from BI dashboards.<br>🤝 Very passionate about Software Development, Statistics, Data Science, Machine Learning, and Artificial Intelligence.⚡ Some shows I love and recommend: Breaking Bad, Money Heist, Hajime no Ippo, Attack on Titan, Vinland Saga.
 
 
 ## Socials:
