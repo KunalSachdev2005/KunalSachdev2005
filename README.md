@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 
 <p align="justify">
-I'm a rising sophomore pursuing a Bachelor's in Computer Science at the University of Waterloo.
+I'm a rising sophomore pursuing a Bachelor's in Computer Science with Minors in Statistics and Economics at the University of Waterloo.
 </p>
 
 <br>
