@@ -1,7 +1,7 @@
 ## 👋 Hola
 
 <p align="justify">
-I'm Kunal Sachdev - 3rd year pundergrad pursuing a Bachelor's in <b>Computer Science</b> with Minors in <b>Statistics</b> and <b>Economics</b> at the <b>University of Waterloo</b>.
+I'm Kunal Sachdev - 3rd year undergrad pursuing a Bachelor's in <b>Computer Science</b> with Minors in <b>Statistics</b> and <b>Economics</b> at the <b>University of Waterloo</b>.
 </p>
 
 <br>
