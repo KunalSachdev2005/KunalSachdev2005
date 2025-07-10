@@ -8,8 +8,15 @@ I'm a rising sophomore pursuing a Bachelor's in Computer Science at the Universi
 
 🔭 **Currently:** Interning as a GenAI Engineer @ **Edelweiss Life Insurance**  
 🌱 **Building:** A serverless GenAI-powered **RAG application** using **AWS** and **Claude 3.5 Sonnet** to automate insights from enterprise **AWS Data Lake**, replacing 200+ static BI dashboards with dynamic, conversational insights  
-🤝 **Passions:** Software Development, Statistics, Data Science, Machine Learning, and Artificial Intelligence  
+🤝 **Passions:** Software Development, Statistics, Data Science, Machine Learning, and Artificial Intelligence
+<br>
 ⚡ **Shows I love:** *Breaking Bad*, *Money Heist*, *Hajime no Ippo*, *Attack on Titan*, *Vinland Saga*
+🏏 **Sports I follow & play:**  
+![Cricket](https://img.shields.io/badge/Cricket-007A33?style=for-the-badge&logo=cricket&logoColor=white) 
+![Basketball](https://img.shields.io/badge/Basketball-F15A24?style=for-the-badge&logo=nba&logoColor=white) 
+![MMA](https://img.shields.io/badge/MMA-DA291C?style=for-the-badge&logo=ufc&logoColor=white) 
+![Poker](https://img.shields.io/badge/Poker-1A1A1A?style=for-the-badge&logo=spades&logoColor=white)
+
 
 ---
 
