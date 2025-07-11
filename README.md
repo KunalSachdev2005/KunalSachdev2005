@@ -11,7 +11,7 @@ I'm Kunal Sachdev - 3rd year undergrad pursuing Bachelor's in <b>Computer Scienc
 🛠️ **Previous Internships:** **Data Science Intern** @ [**Info Origin**](https://www.infoorigin.com/), **Software Developer Intern** @ [**HDFC ERGO General Insurance Company**](https://www.hdfcergo.com/campaigns/all-in-one-product-new?&utm_source=google_search_1&utm_medium=cpc&utm_campaign=AIO_Search_Brand_Neev-Phrase&utm_adgroup=HDFC-ERGO&utm_adid=660499018279&utm_term=hdfc%20ergo%20general%20insurance%20company&utm_network=g&utm_matchtype=p&utm_device=c&utm_location=9062235&utm_sitelink=&utm_placement=&ci=aiogsearch&gad_source=1&gad_campaignid=20229291064&gbraid=0AAAAADy0CuiQrt7iwMiQzcpVrDHguHjkN&gclid=CjwKCAjwyb3DBhBlEiwAqZLe5D4S7Bsczcb_HItskevs7_PvjWIzru1SenmE7aQmJ2JeTwj7-vlw4RoCas0QAvD_BwE)<br><br>
 🤝 **Passions:** Software Development, Statistics, Data Science, Machine Learning, Deep Learning, and Artificial Intelligence<br><br>
 ⚡ **Shows I love:** *Breaking Bad*, *Money Heist*, *Hajime no Ippo*, *Attack on Titan*, *Vinland Saga*<br><br>
-🏏 **Sports I follow & play:** Cricket, Basketball, MMA, and Poker ♠️<br><br>
+🏏 **Sports I follow & play:** 🏏 Cricket, 🏀 Basketball, 🥊 MMA, and ♠️ Poker<br><br>
 👇 **Check out some of my cool projects in the pinned section below!! (and more in the Repositories tab at the top)**
 
 
