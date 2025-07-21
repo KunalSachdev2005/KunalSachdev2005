@@ -6,7 +6,7 @@ I'm Kunal Sachdev - 3rd year undergrad pursuing Bachelor's in <b>Computer Scienc
 
 <br>
 
-💻 **Portfolio**: [**Website**](https://kunal-portfolio-kunal-sachdevs-projects.vercel.app/)  
+💻 **Portfolio**: [**Website**](https://www.kunalmsachdev.com/)  
 
 🔭 **Currently:** GenAI Engineer Intern @ [**Edelweiss Life Insurance Company**](https://www.edelweisslife.in/)<br><br>
 🌱 **Building:** A serverless GenAI-powered **RAG application** using **AWS** and **Claude 3.5 Sonnet** to enable conversational access to enterprise **AWS Data Lake**, replacing 200+ static BI dashboards with dynamic, conversational insights<br><br>
