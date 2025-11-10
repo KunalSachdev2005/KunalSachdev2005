@@ -8,7 +8,9 @@ I'm Kunal Sachdev - 3rd year undergrad pursuing Bachelor's in <b>Computer Scienc
 
 💻 **Portfolio**: [**Website**](https://www.kunalmsachdev.com/)  
 
-📄 **Resume**: [**Resume**](https://www.kunalmsachdev.com/Kunal_Sachdev_Resume.pdf)  
+📄 **Resume**: [**Resume**](https://www.kunalmsachdev.com/Kunal_Sachdev_Resume.pdf)
+
+🚀 **Incoming**: **Full Stack Software Developer - Cloud and ML Co-op** @ [**Nokia**](https://www.nokia.com/)
 
 🔭 **Currently:** **Data Scientist Co-op** @ [**Ontario Lottery and Gaming Corporation**](https://www.olg.ca/en/home.html)<br><br>
 🌱 **Building:** AI Agents<br><br>
