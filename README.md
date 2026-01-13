@@ -10,7 +10,7 @@ I'm Kunal Sachdev - 3rd year undergrad pursuing Bachelor's in <b>Computer Scienc
 
 📄 **Resume**: [**Resume**](https://www.kunalmsachdev.com/Kunal_Sachdev_Resume.pdf)
 
-🚀 **Incoming**: **Full Stack Software Developer - Cloud and ML Co-op** @ [**Nokia**](https://www.nokia.com/)
+<!--🚀 **Incoming**: **Full Stack Software Developer - Cloud and ML Co-op** @ [**Nokia**](https://www.nokia.com/) -->
 
 🔭 **Currently:** **Full Stack Software Developer - Cloud and ML** @ [**Nokia**](https://www.nokia.com/)<br><br>
 🌱 **Building:** AI Agents<br><br>
