@@ -12,9 +12,9 @@ I'm Kunal Sachdev - 3rd year undergrad pursuing Bachelor's in <b>Computer Scienc
 
 <!--🚀 **Incoming**: **Full Stack Software Developer - Cloud and ML Co-op** @ [**Nokia**](https://www.nokia.com/) -->
 
-🔭 **Currently:** **Full Stack Software Developer - Cloud and ML** @ [**Nokia**](https://www.nokia.com/)<br><br>
-🌱 **Building:** Autonomous Networks<br><br>
-🛠️ **Previous Internships:** **Data Scientist** @ [**OLG**](https://www.olg.ca/en/home.html), **GenAI Engineer** @ [**Edelweiss Life Insurance**](https://www.edelweisslife.in/), **Data Scientist** @ [**Info Origin**](https://www.infoorigin.com/), **Software Developer** @ [**HDFC ERGO General Insurance Company**](https://www.hdfcergo.com/)<br><br>
+🔭 **Currently:** **Undergraduate AI Research Assistant** @ [**University of Waterloo CrySP**](https://cs.uwaterloo.ca/research/research-areas/cryptography-security-and-privacy-crysp)<br><br>
+🌱 **Building:** <br><br>
+🛠️ **Previous Internships:** **Full-stack Developer - Cloud & ML** @ [**Nokia**](https://www.nokia.com), **Data Scientist** @ [**OLG**](https://www.olg.ca/en/home.html), **GenAI Engineer** @ [**Edelweiss Life Insurance**](https://www.edelweisslife.in/), **Data Scientist** @ [**Info Origin**](https://www.infoorigin.com/), **Software Developer** @ [**HDFC ERGO General Insurance Company**](https://www.hdfcergo.com/)<br><br>
 🤝 **Passions:** Back-end Software Development, Statistics, Data Science, Machine Learning, Deep Learning, and Artificial Intelligence<br><br>
 ⚡ **Shows I love:** *Breaking Bad*, *Money Heist*, *Hajime no Ippo*, *Attack on Titan*, *Vinland Saga*<br><br>
 🏏 **Sports I follow & play:** 🏏 Cricket, 🏀 Basketball, 🥊 MMA, and ♠️ Poker<br><br>
